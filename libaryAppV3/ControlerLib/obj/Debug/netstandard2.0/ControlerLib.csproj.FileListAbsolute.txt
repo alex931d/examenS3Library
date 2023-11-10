@@ -1,0 +1,14 @@
+C:\Users\alex931d\source\repos\libaryAppV3\ControlerLib\bin\Debug\netstandard2.0\ControlerLib.deps.json
+C:\Users\alex931d\source\repos\libaryAppV3\ControlerLib\bin\Debug\netstandard2.0\ControlerLib.dll
+C:\Users\alex931d\source\repos\libaryAppV3\ControlerLib\bin\Debug\netstandard2.0\ControlerLib.pdb
+C:\Users\alex931d\source\repos\libaryAppV3\ControlerLib\bin\Debug\netstandard2.0\ClassesLib.dll
+C:\Users\alex931d\source\repos\libaryAppV3\ControlerLib\bin\Debug\netstandard2.0\repostory.dll
+C:\Users\alex931d\source\repos\libaryAppV3\ControlerLib\bin\Debug\netstandard2.0\ClassesLib.pdb
+C:\Users\alex931d\source\repos\libaryAppV3\ControlerLib\bin\Debug\netstandard2.0\repostory.pdb
+C:\Users\alex931d\source\repos\libaryAppV3\ControlerLib\obj\Debug\netstandard2.0\ControlerLib.csprojAssemblyReference.cache
+C:\Users\alex931d\source\repos\libaryAppV3\ControlerLib\obj\Debug\netstandard2.0\ControlerLib.AssemblyInfoInputs.cache
+C:\Users\alex931d\source\repos\libaryAppV3\ControlerLib\obj\Debug\netstandard2.0\ControlerLib.AssemblyInfo.cs
+C:\Users\alex931d\source\repos\libaryAppV3\ControlerLib\obj\Debug\netstandard2.0\ControlerLib.csproj.CoreCompileInputs.cache
+C:\Users\alex931d\source\repos\libaryAppV3\ControlerLib\obj\Debug\netstandard2.0\ControlerLib.csproj.CopyComplete
+C:\Users\alex931d\source\repos\libaryAppV3\ControlerLib\obj\Debug\netstandard2.0\ControlerLib.dll
+C:\Users\alex931d\source\repos\libaryAppV3\ControlerLib\obj\Debug\netstandard2.0\ControlerLib.pdb

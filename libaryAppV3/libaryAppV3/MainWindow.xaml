@@ -1,0 +1,44 @@
+﻿<Window x:Class="libaryAppV3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:libaryAppV3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="383*"/>
+            <ColumnDefinition Width="410*"/>
+        </Grid.ColumnDefinitions>
+        <Label FontSize="18" x:Name="welcomeLbl" Margin="10,-2,201.2,388">welcome</Label>
+        <Button Margin="276.8,3,26.6,383" Grid.Column="1" RenderTransformOrigin="0.5,0.509" Click="Button_Click">logout</Button>
+        <TabControl Margin="0,37,-0.4,0" Grid.ColumnSpan="2">
+            <TabItem Header="books">
+                <Grid>
+                    <local:books></local:books>
+                </Grid>
+            </TabItem>
+            <TabItem Header="users">
+                <Grid>
+                    <local:UsersControl></local:UsersControl>
+                </Grid>
+            </TabItem>
+            <TabItem Header="lending">
+                <Grid>
+                    <local:lendingControl></local:lendingControl>
+                </Grid>
+            </TabItem>
+            <TabItem Header="return">
+                <Grid>
+                    <local:returnControl></local:returnControl>
+                </Grid>
+            </TabItem>
+            <TabItem Header="overview">
+                <Grid>
+                    <local:overviewControl></local:overviewControl>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

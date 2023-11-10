@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lAZLwThhrUGnfQnlESFEFytgPz5H2zEh51iL1kEuV9ZwViyChJbcOmQaHA4C8r8rkiFWyp0i/x51TU6rjthMag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alex931d\\source\\repos\\libaryAppV3\\ClassesLib\\ClassesLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alex931d\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512",
+    "C:\\Users\\alex931d\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\alex931d\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

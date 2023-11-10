@@ -1,0 +1,8 @@
+C:\Users\alex931d\source\repos\libaryAppV3\ClassesLib\bin\Debug\netstandard2.0\ClassesLib.deps.json
+C:\Users\alex931d\source\repos\libaryAppV3\ClassesLib\bin\Debug\netstandard2.0\ClassesLib.dll
+C:\Users\alex931d\source\repos\libaryAppV3\ClassesLib\bin\Debug\netstandard2.0\ClassesLib.pdb
+C:\Users\alex931d\source\repos\libaryAppV3\ClassesLib\obj\Debug\netstandard2.0\ClassesLib.AssemblyInfoInputs.cache
+C:\Users\alex931d\source\repos\libaryAppV3\ClassesLib\obj\Debug\netstandard2.0\ClassesLib.AssemblyInfo.cs
+C:\Users\alex931d\source\repos\libaryAppV3\ClassesLib\obj\Debug\netstandard2.0\ClassesLib.csproj.CoreCompileInputs.cache
+C:\Users\alex931d\source\repos\libaryAppV3\ClassesLib\obj\Debug\netstandard2.0\ClassesLib.dll
+C:\Users\alex931d\source\repos\libaryAppV3\ClassesLib\obj\Debug\netstandard2.0\ClassesLib.pdb

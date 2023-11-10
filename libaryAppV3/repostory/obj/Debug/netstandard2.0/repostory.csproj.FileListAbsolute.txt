@@ -1,0 +1,12 @@
+C:\Users\alex931d\source\repos\libaryAppV3\repostory\bin\Debug\netstandard2.0\repostory.deps.json
+C:\Users\alex931d\source\repos\libaryAppV3\repostory\bin\Debug\netstandard2.0\repostory.dll
+C:\Users\alex931d\source\repos\libaryAppV3\repostory\bin\Debug\netstandard2.0\repostory.pdb
+C:\Users\alex931d\source\repos\libaryAppV3\repostory\bin\Debug\netstandard2.0\ClassesLib.dll
+C:\Users\alex931d\source\repos\libaryAppV3\repostory\bin\Debug\netstandard2.0\ClassesLib.pdb
+C:\Users\alex931d\source\repos\libaryAppV3\repostory\obj\Debug\netstandard2.0\repostory.csprojAssemblyReference.cache
+C:\Users\alex931d\source\repos\libaryAppV3\repostory\obj\Debug\netstandard2.0\repostory.AssemblyInfoInputs.cache
+C:\Users\alex931d\source\repos\libaryAppV3\repostory\obj\Debug\netstandard2.0\repostory.AssemblyInfo.cs
+C:\Users\alex931d\source\repos\libaryAppV3\repostory\obj\Debug\netstandard2.0\repostory.csproj.CoreCompileInputs.cache
+C:\Users\alex931d\source\repos\libaryAppV3\repostory\obj\Debug\netstandard2.0\repostory.csproj.CopyComplete
+C:\Users\alex931d\source\repos\libaryAppV3\repostory\obj\Debug\netstandard2.0\repostory.dll
+C:\Users\alex931d\source\repos\libaryAppV3\repostory\obj\Debug\netstandard2.0\repostory.pdb
